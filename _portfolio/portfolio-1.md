@@ -1,6 +1,6 @@
 ---
 title: "LEGO EV3 Build"
-excerpt: "Assembled a LEGO Mindstorm EV3 Robot to complete a series of tasks. <br/><img src='/images/LEGO-EV3-Build.png'>"
+excerpt: "Assembled a LEGO Mindstorm EV3 Robot to complete a series of tasks. <br/><img src='/images/Me on Boat.png'>"
 collection: portfolio
 ---
 
