@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "https://github.com/Eye1309/cg232ec.github.io/blob/master/images/Me%20on%20Boat.png"
+  name             : "Connor Gorny"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Leveraging technical skills to create unique solutions"
+  location         : "The Lab"
+  employer         : "Michigan State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gornycon@msu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
