@@ -13,14 +13,12 @@ main:
 
   # - title: "Teaching"
   #  url: /teaching/    
+  - title: "Home"
+    url: https://eye1309.github.io/cg232ec.github.io/
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Home"
-    url: https://eye1309.github.io/cg232ec.github.io/
-    #/year-archive/
-    
+   
   - title: "CV"
     url: /cv/
     
