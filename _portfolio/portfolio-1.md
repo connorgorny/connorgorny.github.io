@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/LEGO-EV3-Build.png'>"
+title: "LEGO EV3 Build"
+excerpt: "Assembled a LEGO Mindstorm EV3 Robot to complete a series of tasks. 1<br/><img src='/images/LEGO-EV3-Build.png'>"
 collection: portfolio
 ---
 
