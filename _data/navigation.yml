@@ -20,7 +20,8 @@ main:
     url: /portfolio/
    
   - title: "CV"
-    url: /cv/
+    url : /files/Resume 2_4_24 (1).pdf
+    #url: /cv/
     
   # - title: "Guide"
   #  url: /markdown/
