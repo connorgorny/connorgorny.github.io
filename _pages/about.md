@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 A Little About Me
-======
+
 I am a third year undergrad student at Michigan State University
 
 I belong to the College of Engineering and am pursuing a major in Computer Science
 I am also pursuing a minor in Business
-------
+======
 My research interests include:
 - Artificial Intelligence
 - Machine Learning
