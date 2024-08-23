@@ -19,7 +19,7 @@ I am a third year undergrad student at Michigan State University
 I belong to the College of Engineering and am pursuing a major in Computer Science
 along side a minor in Business
 
-My research interests include:
+My research interests include
 ------
 
 - Artificial Intelligence
