@@ -9,8 +9,7 @@ redirect_from:
 
 
 
-![me fr](
-){: .align-right width="300px"}
+![me fr](me fr.png){: .align-right width="300px"}
 
 A Little About Me
 ======
