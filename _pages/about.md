@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 
+
+![me fr](
+){: .align-right width="300px"}
+
 A Little About Me
 ======
 
