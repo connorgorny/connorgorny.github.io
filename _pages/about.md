@@ -14,7 +14,7 @@ A Little About Me
 I am a third year undergrad student at Michigan State University
 
 I belong to the College of Engineering and am pursuing a major in Computer Science
-I am also pursuing a minor in Business
+along side a minor in Business
 
 My research interests include:
 ------
@@ -23,5 +23,20 @@ My research interests include:
 - Machine Learning
 - Autonomous Systems in Robotics
 - Handling Big Data
+
+Currently Working on...
+------
+
+- Pursuing Google Certification in Data Science
+- Creating an Algorithmic Trading Platform using Python
+- Designing and programming an FPV Drone
+
+Technical Skills
+------
+
+Proficient: Python
+Intermediate: Java, Javascript, Excel, CAD
+Beginner: C++
+Additional: Leadership skills, problem solving skills, team managment
 
 
