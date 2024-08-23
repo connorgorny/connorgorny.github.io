@@ -4,4 +4,4 @@ excerpt: "Assembled a LEGO Mindstorm EV3 Robot to complete a series of tasks. <b
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ I upgraded a LEGO EV3 robot, significantly enhancing its task performance by 95%. The original build struggled with accuracy and speed in completing tasks such as object detection and navigation. By refining the design, optimizing the motor configurations, and improving the sensor integration, I achieved a substantial increase in efficiency and precision. These upgrades not only demonstrated my ability to troubleshoot and innovate but also highlighted my skills in engineering and robotics.
