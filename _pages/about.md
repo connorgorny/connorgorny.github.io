@@ -35,8 +35,11 @@ Technical Skills
 ------
 
 Proficient: Python
+
 Intermediate: Java, Javascript, Excel, CAD
+
 Beginner: C++
+
 Additional: Leadership skills, problem solving skills, team managment
 
 
