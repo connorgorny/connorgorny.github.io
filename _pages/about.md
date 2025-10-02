@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "😁Hey! I am Connor. Welcome to my page!😁"
+title: "Welcome to my page."
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,10 +14,9 @@ redirect_from:
 A Little About Me
 ======
 
-I am a third year undergrad student at Michigan State University
+I am a third year undergrad student at University of Iowa
 
-I belong to the College of Engineering and am pursuing a major in Computer Science
-along side a minor in Business
+I belong to the Tippie College of Business and am pursuing a major in Business Analytics and Information Systems (BAIS) with an emphasis in Computer Science
 
 My research interests include
 ------
@@ -30,18 +29,16 @@ My research interests include
 Currently Working on...
 ------
 
-- Pursuing Google Certification in Data Science
+- Pursuing Google Certification in Data Analytics
 - Creating an Algorithmic Trading Platform using Python
 - Designing and programming an FPV Drone
 
 Technical Skills
 ------
 
-Proficient: Python
+Proficient: Python, Excel
 
-Intermediate: Java, Javascript, Excel, CAD
-
-Beginner: C++
+Intermediate: Java, Javascript, CAD
 
 Additional: Leadership skills, problem solving skills, team managment
 
