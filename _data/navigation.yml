@@ -21,7 +21,7 @@ main:
     url: /portfolio/
    
   - title: "CV"
-    url : "C:\Users\Conno\Desktop\Resume 11_06_25.pdf"
+    url : file:///C:/Users/Conno/Desktop/Resume%2011_06_25.pdf
     #url: /cv/
   - title: "Extra Info"
     url: https://youtu.be/xvFZjo5PgG0?si=G1fNY_TzyxWRfp-6
